@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://junghyungo.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>gjh</title>
   <subtitle>Majoring in Computer Science Engineering at KU since 2020. CSE, Konkuk University Java, Data Structure, Arctic Monkeys</subtitle>
-  <updated>2024-03-25T19:31:47+09:00</updated>
+  <updated>2024-03-25T19:46:29+09:00</updated>
   <author>
     <name>junghyun</name>
-    <uri>https://junghyungo.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://junghyungo.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://junghyungo.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 junghyun </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
