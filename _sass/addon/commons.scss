@@ -727,6 +727,7 @@ $btn-mb: 0.5rem;
   }
 
   #avatar {
+    margin-left: 2rem;
     display: block;
     width: 7rem;
     height: 7rem;
@@ -831,6 +832,8 @@ $btn-mb: 0.5rem;
   }
 
   .sidebar-bottom {
+    //text-align: center;
+
     padding-left: 2rem;
     padding-right: 1rem;
     margin-bottom: 1.5rem;

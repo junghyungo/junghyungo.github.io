@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>gjh</title>
   <subtitle>Majoring in Computer Science Engineering at KU since 2020. CSE, Konkuk University Java, Data Structure, Arctic Monkeys</subtitle>
-  <updated>2024-03-25T19:46:29+09:00</updated>
+  <updated>2024-03-27T13:33:53+09:00</updated>
   <author>
     <name>junghyun</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>안녕, 나의 첫 발걸음</title>
+    <link href="http://localhost:4000/_post/Hello/" rel="alternate" type="text/html" title="안녕, 나의 첫 발걸음" />
+    <published>2024-03-25T20:13:00+09:00</published>
+  
+    <updated>2024-03-25T20:13:00+09:00</updated>
+  
+    <id>http://localhost:4000/_post/Hello/</id>
+    <content src="http://localhost:4000/_post/Hello/" />
+    <author>
+      <name>{"name"=>"junghyun", "link"=>"https://github.com/junghyungo"}</name>
+    </author>
+
+  
+    
+    <category term="Daily" />
+    
+    <category term="Anniversary" />
+    
+  
+
+  <summary></summary>
+
+  </entry>
 
 </feed>
 
