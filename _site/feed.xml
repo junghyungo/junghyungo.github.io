@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>gjh</title>
   <subtitle>Majoring in Computer Science Engineering at KU since 2020. CSE, Konkuk University Java, Data Structure, Arctic Monkeys</subtitle>
-  <updated>2024-03-27T13:33:53+09:00</updated>
+  <updated>2024-10-18T19:33:16+09:00</updated>
   <author>
     <name>junghyun</name>
     <uri>http://localhost:4000/</uri>
@@ -20,27 +20,32 @@
 
   
   <entry>
-    <title>안녕, 나의 첫 발걸음</title>
-    <link href="http://localhost:4000/_post/Hello/" rel="alternate" type="text/html" title="안녕, 나의 첫 발걸음" />
-    <published>2024-03-25T20:13:00+09:00</published>
+    <title>소웨공 중간 족</title>
+    <link href="http://localhost:4000/_post/%EC%86%8C%EC%9B%A8%EA%B3%B5-%EC%A4%91%EA%B0%84-%EC%A1%B1/" rel="alternate" type="text/html" title="소웨공 중간 족" />
+    <published>2024-10-18T19:30:00+09:00</published>
   
-    <updated>2024-03-25T20:13:00+09:00</updated>
+    <updated>2024-10-18T19:30:00+09:00</updated>
   
-    <id>http://localhost:4000/_post/Hello/</id>
-    <content src="http://localhost:4000/_post/Hello/" />
+    <id>http://localhost:4000/_post/%EC%86%8C%EC%9B%A8%EA%B3%B5-%EC%A4%91%EA%B0%84-%EC%A1%B1/</id>
+    <content src="http://localhost:4000/_post/%EC%86%8C%EC%9B%A8%EA%B3%B5-%EC%A4%91%EA%B0%84-%EC%A1%B1/" />
     <author>
-      <name>{"name"=>"junghyun", "link"=>"https://github.com/junghyungo"}</name>
+      <name>junghyun</name>
     </author>
 
   
     
-    <category term="Daily" />
-    
-    <category term="Anniversary" />
-    
   
 
-  <summary></summary>
+  <summary>1. CMMi에 대한 설명 중 올바르지 않은 것 (2|56p)
+1) 조직의 SW 개발 능력 성숙도를 종합적으로 측정하는 모델
+2) ｀CMMi 국제 평가는 조직을 대상으로 진행되며, 7년 동안 유효｀
+3) CMMi 레벨이 높으면, 그 조직은 그 레벨에 합당한 Qualified SW Product를 개발할 수 있는 역량을 갖추고 있다
+4) 20개 이상의 영역에 대해 레벨 1~5로 평가한다
+5) ｀SPI (SW Process Improvement)가 잘 이루어져야 CMMi Level 4이상을 얻을 수 있다｀
+
+2. XP의 Pair Programming에 대해 올바르지 않은 것 (3|108p)
+1) 기본적으로 두 명이 짝으로 코딩하는 기법이다
+2) ==두 명이 나누어서 작업한 후 합치는 일반적인 구현 방법에 ...</summary>
 
   </entry>
 

@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: gjh # the main title
 
-tagline: 끄적끄적, 놓치기 전에 # it will display as the sub-title
+tagline: 끄적끄적 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Majoring in Computer Science Engineering at KU since 2020.
@@ -31,12 +31,11 @@ url: "https://junghyungo.github.io"
 # The base URL of your site
 baseurl: ""
 
-
 github:
   username: junghyungo # change to your github username
 
-twitter:
-  username: elonmusk # change to your twitter username
+# twitter:
+#   username: elonmusk # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,9 +44,8 @@ social:
   email: pp90971658@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/elonmusk # change to your twitter homepage
+    # - https://twitter.com/elonmusk # change to your twitter homepage
     - https://github.com/junghyungo # change to your github homepage
-    - https://www.instagram.com/duddnd2_/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
